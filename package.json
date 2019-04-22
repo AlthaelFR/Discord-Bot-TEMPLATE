@@ -1,0 +1,17 @@
+{
+  "name": "tuto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "LarchitecT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "chalk": "^2.4.1",
+    "ms": "^2.1.1"
+  }
+}
