@@ -28,7 +28,7 @@ exports.execute = (client, message, args) => {
                 adminCommands += command.info.name + "\n";
                 break;
 				
-			case "owner":
+            case "owner":
                 ownerCommands += command.info.name + "\n";
                 break;
 
